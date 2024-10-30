@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+C:\Users\Dutu\Desktop\WORK\EMANUEL\2.Profesor Mircea Bodog\Teme\Tema30.10.2024\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1642013583.index
+\JSP_PROJECT\src\main\java
+C:\Users\Dutu\Desktop\WORK\EMANUEL\2.Profesor Mircea Bodog\Teme\Tema30.10.2024\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\324894173.index
+\JSP_PROJECT\src\main\java
+C:\Users\Dutu\Desktop\WORK\EMANUEL\2.Profesor Mircea Bodog\Teme\Tema30.10.2024\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1204633080.index
+\JSP_PROJECT\src\main\java
